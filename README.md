@@ -1,5 +1,5 @@
-Coded By : Tathagata Raha
-Roll No : 2018114017
+# jetpack_joyride_terminal
+This game was built as a part of the first assignment of DASS course. You can find the assignment in question.pdf.
 
 1.   About the Game
 
@@ -41,3 +41,4 @@ Roll No : 2018114017
 
 	1) Colors are provided to different things.
     2) Gravity is also there which attracts to the earth when you are not rising
+
