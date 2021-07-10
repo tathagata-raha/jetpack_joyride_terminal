@@ -1,5 +1,5 @@
 # jetpack_joyride_terminal
-This game was built as a part of the first assignment of DASS course. You can find the assignment in question.pdf.
+
 
 1.   About the Game
 
