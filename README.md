@@ -26,10 +26,6 @@ Run the following command in the directory :
 	python3 main.py
 ```
 
-4.  Requirements
-
-	1) Python3 
-		a) colorama library ( 'pip install colorama' )
 
 5.  Controls
 
