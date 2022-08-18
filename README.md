@@ -20,9 +20,11 @@
 3.   Instructions to play 
 
 	Run the following command in the directory :
-
-	1)python3 main.py
-
+```
+	cd src
+	pip install -r requirements.txt
+	python3 main.py
+```
 
 4.  Requirements
 
