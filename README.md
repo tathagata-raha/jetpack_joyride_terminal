@@ -19,7 +19,7 @@
 
 3.   Instructions to play 
 
-	Run the following command in the directory :
+Run the following command in the directory :
 ```
 	cd src
 	pip install -r requirements.txt
